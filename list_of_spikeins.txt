@@ -1,0 +1,2 @@
+Ec5001_16S	PCR_Spikein
+Ec5502_16S	Extr_Spikein
